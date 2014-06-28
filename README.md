@@ -5,8 +5,8 @@ Simple Spam Filter which uses machine learning algorithm to predict if an email 
 
 How to use?
 
-1) Clone repo to your desktop or download zip and unzip it;
-2) Launch SpamFilet/dist/SpamFilter.jar;
+1) Clone repo to your desktop or download zip and unzip it; \n
+2) Launch SpamFilet/dist/SpamFilter.jar; \n
 3) Open an existing file with File->Open    or    copy paste email to TextArea;
 
 
